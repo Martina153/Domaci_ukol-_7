@@ -6,9 +6,7 @@
     // najít prvek na stránce podle planNumber
     const planElement = document.querySelector(`#plan${planNumber}`);
     // přidat třídu plan--selected  
-    planElement.classList.add('plan--selected');
-  
-    
+    planElement.classList.add('plan--selected');  
   } */
 
   
