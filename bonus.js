@@ -1,4 +1,4 @@
-+
+
 //Pokud je vstupní řetězec delší než len, tak funkce odřízne jeho konec a vrátí výsledek.
 //Pokud je vstupní řetězec kratší než len, tak jej doplní od začátku znakem tečky a vrátí výsledek
 //Pokud je vstupní řetězec dlouhý přesně len, funkce jej vrátí beze změny.
@@ -21,6 +21,10 @@
 const isLeapYear = (year) => {
     return year % 4 == 0 && (year % 100 != 0 || year % 400 == 0);
   }
+  
+  
+  
+  
   
   
   
